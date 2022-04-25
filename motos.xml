@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/santo/OneDrive/Documentos/Unach/9/servicios%20web/Practica5_A170088/motos.xsl"?>
+<motocicletas>
+<moto>
+  <nombre>Black Bird</nombre>
+  <cilindrada>250cc</cilindrada>
+  <marca>Italika</marca>
+</moto>
+<moto>
+  <nombre>Hornet Scrambler</nombre>
+  <cilindrada>250cc</cilindrada>
+  <marca>Vento</marca>
+</moto>
+<moto>
+  <nombre>XSR155 Cafe Racer</nombre>
+  <cilindrada>250cc</cilindrada>
+  <marca>Yamaha</marca>
+</moto>
+</motocicletas>
